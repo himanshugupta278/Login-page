@@ -3,9 +3,8 @@
 A modern and responsive **Login & Signup Page** built using **HTML, CSS, and JavaScript** with smooth animations and social media login buttons.  
 
 ## Live Demo  
-
-Check out the live version here: 
-[Click here to view](https://himanshugupta278.github.io/Login-page/)
+ 
+## [Click here to view](https://himanshugupta278.github.io/Login-page/)
 
 ## Features  
 
@@ -17,7 +16,7 @@ Check out the live version here:
 
 ## Screenshot  
 
-![App Screenshot](screenshot_2.png) 
+![App Screenshot](Image/Screenshot.png)
 
 ## Technologies Used  
 
